@@ -15,7 +15,7 @@
 
 <p><img align="left" justify-content="space-between" src="https://github-readme-stats.vercel.app/api/top-langs?username=rand0maccess&show_icons=true&locale=en&layout=compact" alt="rand0maccess" /></p>
 
-<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=rand0maccess&show_icons=true&locale=en" alt="rand0maccess" /></p>
+<p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=rand0maccess&show_icons=true&locale=en" alt="rand0maccess" /><br></p>
 
-<br>
+
 ![](https://komarev.com/ghpvc/?username=Rand0mAccess)
