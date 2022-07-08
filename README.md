@@ -17,5 +17,3 @@
 
 <p>&nbsp;<img align="left"  src="https://github-readme-stats.vercel.app/api?username=rand0maccess&show_icons=true&locale=en" alt="rand0maccess" /></p>
 
-
-![](https://komarev.com/ghpvc/?username=Rand0mAccess)
